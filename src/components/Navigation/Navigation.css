@@ -1,0 +1,13 @@
+.navigation-buttons {
+   display: flex;
+   justify-content: space-evenly;
+   height: 6rem;
+}
+
+.navigation-buttons p {
+   border: 1px solid #999;
+   margin-right: 8px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
